@@ -10,8 +10,8 @@ My work is focused on open-source development of bioimage software, including
 
 * 🚀 __Technologies I know and love:__ Java, shell scripting, Python, Perl,
   JavaScript, GNU/Linux, macOS, XML, HTML, CSS, Eclipse, vim, Maven, Git
-* 🌱 __Technologies I know less well but want to learn more about:__ HTML5,
-  Node.js, Electron, Docker, Jupyter, Android
+* 🌱 __Technologies I know less well but want to learn more about:__ Kotlin,
+  GraalVM, HTML5, Node.js, Electron, Docker, Jupyter, Android
 * 🥴 __Technologies I use and often tolerate:__ C/C++, MATLAB, Windows
 * 📟 __Obsolete technologies of which I am fond:__ QBasic, Pascal, Adobe Flex,
   Ant, Subversion, Mac OS Classic, MS-DOS ;-)
