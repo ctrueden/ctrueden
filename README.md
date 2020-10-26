@@ -1,9 +1,9 @@
-My name is Curtis Rueden, and I am a software developer from Madison, WI, USA.
-I oversee the software development efforts of the
+Hi! I'm Curtis Rueden, a software developer from Madison, WI, USA.
+
+I lead the software development efforts of the
 [Eliceiri biophotonics laboratory](https://eliceirilab.org) (a.k.a. the
 Laboratory for Optical and Computational Instrumentation or LOCI) at the
 [University of Wisconsin-Madison](https://wisc.edu).
-
 My work is focused on open-source development of bioimage software, including
 [ImageJ](https://imagej.net), [Fiji](https://fiji.sc),
 [SciJava](https://scijava.org), [SCIFIO](https://scif.io), and related things.
