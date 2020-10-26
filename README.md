@@ -19,8 +19,6 @@ My work is focused on open-source development of bioimage software, including
 For help with bioimage software including ImageJ, please use the
 [Image.sc Forum](https://forum.image.sc).
 
-## GitHub stats
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ctrueden&show_icons=true&include_all_commits=true" alt="Curtis's github stats" />
 </a>
