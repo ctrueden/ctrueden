@@ -1,3 +1,5 @@
+⏩ __ON FAMILY LEAVE DURING COVID. BACK AFTER MY LOCAL COMMUNITY'S SCHOOLS REOPEN.__ ⏪
+
 Hi! I'm Curtis Rueden, a software developer from Madison, WI, USA.
 
 I lead the software development efforts of the
