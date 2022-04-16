@@ -5,16 +5,15 @@ I lead the software development efforts of the
 Laboratory for Optical and Computational Instrumentation or LOCI) at the
 [University of Wisconsin-Madison](https://wisc.edu).
 My work is focused on open-source development of bioimage software, including
-[ImageJ](https://imagej.net), [Fiji](https://fiji.sc),
+[ImageJ2](https://imagej.net/), [Fiji](https://fiji.sc),
 [SciJava](https://scijava.org), [SCIFIO](https://scif.io), and related things.
 
-* 🚀 __Technologies I know and love:__ Java, shell scripting, Python, Perl,
-  JavaScript, GNU/Linux, XML, HTML, CSS, Eclipse, vim, Maven, Git
-* 🌱 __Technologies I know less well but want to learn more about:__ Kotlin,
-  GraalVM, HTML5, Node.js, Electron, Docker, Jupyter, Android
-* 🥴 __Technologies I use and often tolerate:__ C/C++, MATLAB, Windows, macOS
-* 📟 __Obsolete technologies of which I am fond:__ QBasic, Pascal, Adobe Flex,
-  Ant, Subversion, Mac OS Classic, MS-DOS ;-)
+|   |   |
+|---|---|
+| 🚀 __Technologies I know and love__                               | Java, shell scripting, Python, JavaScript, GNU/Linux, Jekyll, XML, HTML, CSS, Eclipse, vim, Maven, Git |
+| 🌱 __Technologies I know less well but want to learn more about__ | Kotlin, GraalVM, HTML5, Node.js, Electron, Docker, Jupyter, Android, WebAssembly, Visual Studio Code   |
+| 🥴 __Technologies I use and often tolerate__                      | C/C++, MATLAB, Windows, macOS                                                                          |
+| 📟 __Obsolete technologies of which I am fond__                   | QBasic, Pascal, Adobe Flex, Perl, Ant, Subversion, Mac OS Classic, MS-DOS ;-)                          |
 
 For help with bioimage software including ImageJ, please use the
 [Image.sc Forum](https://forum.image.sc).
