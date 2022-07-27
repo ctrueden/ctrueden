@@ -1,6 +1,6 @@
 Hi! I'm Curtis Rueden, a software developer from Madison, WI, USA.
 
-I lead the software development efforts of the
+I am a research software engineer in the
 [Eliceiri biophotonics laboratory](https://eliceirilab.org) (a.k.a. the
 Laboratory for Optical and Computational Instrumentation or LOCI) at the
 [University of Wisconsin-Madison](https://wisc.edu).
