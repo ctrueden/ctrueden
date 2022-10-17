@@ -10,10 +10,10 @@ My work is focused on open-source development of bioimage software, including
 
 |   |   |
 |---|---|
-| 🚀 __Technologies I know and love__                               | Java, shell scripting, Python, JavaScript, GNU/Linux, Jekyll, XML, HTML, CSS, Eclipse, vim, Maven, Git |
-| 🌱 __Technologies I know less well but want to learn more about__ | Kotlin, GraalVM, Julia, HTML5, Node.js, Electron, Docker, Jupyter, Android, WebAssembly, Visual Studio Code   |
-| 🥴 __Technologies I use and often tolerate__                      | C/C++, MATLAB, Windows, macOS                                                                          |
-| 📟 __Obsolete technologies of which I am fond__                   | QBasic, Pascal, Adobe Flex, Perl, Ant, Subversion, Mac OS Classic, MS-DOS ;-)                          |
+| 🚀 __Technologies I know and love__             | Java, shell scripting, Python, JavaScript, GNU/Linux, Jekyll, XML, HTML, CSS, vim, Maven, Git |
+| 🌱 __Technologies I want to learn more about__  | PyCharm, IntelliJ IDEA, Kotlin, GraalVM, Julia, Dart, HTML5, Node.js, Electron, Docker, Jupyter, Android, WebAssembly |
+| 🥴 __Technologies I use and often tolerate__    | C/C++, MATLAB, Windows, macOS, Eclipse |
+| 📟 __Obsolete technologies of which I am fond__ | QBasic, Pascal, Adobe Flex, Perl, Ant, Subversion, Mac OS Classic, MS-DOS ;-) |
 
 For help with bioimage software including ImageJ, please use the
 [Image.sc Forum](https://forum.image.sc).
